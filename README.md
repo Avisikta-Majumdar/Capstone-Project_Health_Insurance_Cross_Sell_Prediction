@@ -58,12 +58,7 @@ The dataset contains features like:
 7. HyperParameter Tuning
 
 8. Final selection of the model
-
 9. Conclusion
-
-
 
 Miscellaneous :
 * Google colab tools
-
-
