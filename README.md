@@ -1,6 +1,6 @@
 # AlmaBetter Capstone Project 4 - Classification : Insurance Cross Sell Prediction
 
-This project is a part of the [AlmaBetter Premium Program](https://www.almabetter.com/) 
+This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
 
 #### -- Project Status: [Completed]
 
@@ -16,7 +16,7 @@ We have the data of which contains details of customers like id , age, gender an
 
 **Dataset info**
 
-* 1. Number of records: 3,81,109 
+* 1.Number of records: 3,81,109 
 
 * 2.Number of features: 12
 
@@ -35,9 +35,9 @@ The dataset contains features like:
 * **Annual_Premium** :- The amount customer needs to pay as premium in the year<br>
 * **PolicySalesChannel** :- Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over   Phone, In Person, etc.<br>
 * **Vintage** :- Number of Days, Customer has been associated with the company<br>
-* **Response :- The customer is interested or not<br>
+* **Response** :- The customer is interested or not<br>
 ### **Target Variable :** 
-* **Response :- The customer is interested or not<br>
+* **Response** :- The customer is interested or not<br>
 
 
 **Project Work flow**
