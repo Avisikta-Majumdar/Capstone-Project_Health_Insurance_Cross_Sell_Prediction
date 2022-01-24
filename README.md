@@ -1,4 +1,4 @@
-# AlmaBetter Capstone Project 4 - Classification : Insurance Cross Sell Prediction
+# Capstone Project 3 - Classification : Insurance Cross Sell Prediction
 
 This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
 
