@@ -3,7 +3,7 @@
 This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
 
 #### -- Project Status: [Completed]
-
+#### -- Score : [ 78/ 100 ] 
 ## Project Summary :
 #### Problem Statement : 
 To Prediction whether a customer will buy insurance(vehicle)  or not. 
