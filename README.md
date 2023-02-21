@@ -1,6 +1,6 @@
 # Capstone Project 3 - Classification : Insurance Cross Sell Prediction
 
-This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
+## This project is a part of the [Almabetter Pro Program Curriculum(Full Stack Data Science)](https://grow.almabetter.com/auth/signup?referralCode=4M11C2&utm_source=referral)
 
 #### -- Project Status: [Completed]
 #### -- Score: [ 78/ 100 ] 
